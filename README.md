@@ -4,8 +4,9 @@ The commonly used design patterns are discussed implemented in C# programming la
 
 ## Contents
 
-- [Singleton](/DesignPatterns/Singleton/)
-- [Prototype](/DesignPatterns/Prototype/)
-- [Builder](/DesignPatterns/Builder/)
-- [Factory](/DesignPatterns/Factory/)
-- [AbstractFactory](/DesignPatterns/AbstractFactory/)
+- Creational Design Patterns
+    - [Singleton](/DesignPatterns/Singleton/)
+    - [Prototype](/DesignPatterns/Prototype/)
+    - [Builder](/DesignPatterns/Builder/)
+    - [Factory](/DesignPatterns/Factory/)
+    - [AbstractFactory](/DesignPatterns/AbstractFactory/)
