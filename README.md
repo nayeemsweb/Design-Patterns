@@ -7,3 +7,4 @@ The commonly used design patterns are discussed implemented in C# programming la
 - [Singleton](/DesignPatterns/Singleton/)
 - [Prototype](/DesignPatterns/Prototype/)
 - [Builder](/DesignPatterns/Builder/)
+- [Factory](/DesignPatterns/Factory/)
