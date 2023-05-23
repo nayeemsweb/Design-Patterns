@@ -10,3 +10,7 @@ The commonly used design patterns are discussed implemented in C# programming la
     - [Builder](/DesignPatterns/Builder/)
     - [Factory](/DesignPatterns/Factory/)
     - [AbstractFactory](/DesignPatterns/AbstractFactory/)
+    </br></br>
+
+- Behavioral Design Patterns
+    - [Strategy](/DesignPatterns/Strategy/)
